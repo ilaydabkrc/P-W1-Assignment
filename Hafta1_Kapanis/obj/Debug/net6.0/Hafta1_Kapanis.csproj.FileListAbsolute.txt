@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Week1u_LiveClass\Hafta1_Kapanis\bin\Debug\net6.0\Hafta1_Kapanis.exe
+C:\Users\PC\source\repos\Week1u_LiveClass\Hafta1_Kapanis\bin\Debug\net6.0\Hafta1_Kapanis.deps.json
+C:\Users\PC\source\repos\Week1u_LiveClass\Hafta1_Kapanis\bin\Debug\net6.0\Hafta1_Kapanis.runtimeconfig.json
+C:\Users\PC\source\repos\Week1u_LiveClass\Hafta1_Kapanis\bin\Debug\net6.0\Hafta1_Kapanis.dll
+C:\Users\PC\source\repos\Week1u_LiveClass\Hafta1_Kapanis\bin\Debug\net6.0\Hafta1_Kapanis.pdb
+C:\Users\PC\source\repos\Week1u_LiveClass\Hafta1_Kapanis\obj\Debug\net6.0\Hafta1_Kapanis.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Week1u_LiveClass\Hafta1_Kapanis\obj\Debug\net6.0\Hafta1_Kapanis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Week1u_LiveClass\Hafta1_Kapanis\obj\Debug\net6.0\Hafta1_Kapanis.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Week1u_LiveClass\Hafta1_Kapanis\obj\Debug\net6.0\Hafta1_Kapanis.AssemblyInfo.cs
+C:\Users\PC\source\repos\Week1u_LiveClass\Hafta1_Kapanis\obj\Debug\net6.0\Hafta1_Kapanis.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Week1u_LiveClass\Hafta1_Kapanis\obj\Debug\net6.0\Hafta1_Kapanis.dll
+C:\Users\PC\source\repos\Week1u_LiveClass\Hafta1_Kapanis\obj\Debug\net6.0\refint\Hafta1_Kapanis.dll
+C:\Users\PC\source\repos\Week1u_LiveClass\Hafta1_Kapanis\obj\Debug\net6.0\Hafta1_Kapanis.pdb
+C:\Users\PC\source\repos\Week1u_LiveClass\Hafta1_Kapanis\obj\Debug\net6.0\Hafta1_Kapanis.genruntimeconfig.cache
+C:\Users\PC\source\repos\Week1u_LiveClass\Hafta1_Kapanis\obj\Debug\net6.0\ref\Hafta1_Kapanis.dll
